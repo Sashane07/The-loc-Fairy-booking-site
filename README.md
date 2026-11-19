@@ -1,4 +1,4 @@
-The Loc Fairy Booking Site 🧚🏽‍♀️
+The Loc Fairy Booking Site 
 A website designed for The Loc Fairy, a hair business specializing in loc styling and creative protective hairstyles.
 
 Features
